@@ -10,10 +10,6 @@ node_modules
 /build
 /frontend/public
 
-# typescript
-*/**/*.js
-!frontend/**/*.js
-
 # misc
 .DS_Store
 
